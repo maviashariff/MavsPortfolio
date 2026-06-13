@@ -1,0 +1,122 @@
+1️⃣ Stress Analyzer – Full Stack Web App
+
+Live: https://lnkd.in/g8s38XAe
+
+Backend Repo: github.com/maviashariff
+
+📌 Overview
+
+A full-stack web application that analyzes user inputs, calculates a stress score, categorizes stress levels, and presents results in a light, sarcastic tone. Built primarily to understand real-world full-stack architecture and deployment workflows.
+
+⚙️ Tech Stack
+
+Frontend: HTML, Tailwind CSS, JavaScript
+
+Backend: Node.js, Express.js
+
+Database: MongoDB Atlas
+
+Authentication: JWT (Admin login)
+
+Deployment: Render (Backend), Netlify (Frontend)
+
+🔐 Key Features
+
+Dynamic stress score calculation logic
+
+RESTful API architecture
+
+JWT-based admin authentication
+
+Protected admin dashboard
+
+Leaderboard & submission management
+
+Secure MongoDB Atlas integration
+
+Environment variable handling
+
+CORS configuration & production debugging
+
+🧠 What I Focused On
+
+Designing clean API routes
+
+Authentication flow (token generation & validation)
+
+Database security best practices
+
+Deployment pipeline setup
+
+Debugging real production issues
+
+💡 Why This Project Matters
+
+This project strengthened my understanding of full-stack data flow, backend security, and cloud deployment — not just UI development.
+
+2️⃣ Universal Appliances – Business Website
+
+Live: universalappliancesmysore.com
+
+📌 Overview
+
+Designed and developed a responsive static website for a local appliance repair business in Mysore to establish a professional online presence.
+
+⚙️ Tech Stack
+
+HTML5
+
+Tailwind CSS
+
+JavaScript
+
+🔧 Features
+
+Fully responsive design
+
+Service listings (AC, refrigerator, washing machine repair)
+
+Customer review section
+
+Contact and inquiry options
+
+Professional hosting & deployment
+
+🎯 Outcome
+
+Delivered a clean, fast-loading website that improved the business's digital visibility and credibility.
+
+👉 What you did right here: real client project.
+👉 What you should add later: measurable impact (increase in inquiries, traffic, etc.).
+
+3️⃣ Rootstay – Hackathon Project
+
+GitHub Demo: https://maviashariff.github.io/rootstaynew/index.html
+
+📌 Overview
+
+A prototype platform built during my first hackathon at Infosys. The idea was to support rural communities by enabling homeowners and farmers to convert their properties into homestays and experience centers.
+
+⚙️ Tech Stack
+
+HTML5
+
+Tailwind CSS
+
+Firebase
+
+🌱 Features
+
+Homestay listing interface
+
+Basic authentication (Firebase)
+
+Community-focused concept design
+
+🚀 Experience Gained
+
+Rapid prototyping under time constraints
+
+Team collaboration in hackathon environment
+
+Translating social impact ideas into working UI
